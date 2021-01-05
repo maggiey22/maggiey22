@@ -1,4 +1,4 @@
-# Hiya, I'm Maggie! <img src="assets/dino.gif" height=25 title="a persistent dinosaur">
+# Hiya, I'm Maggie! <img src="assets/dino.gif" height=30 title="a persistent dinosaur">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Maggie%20Yang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maggie--yang/)](https://www.linkedin.com/in/maggie--yang/)
 ![School Badge](https://img.shields.io/badge/School-UBC-yellow?style=flat)
