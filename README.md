@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Maggie%20Yang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maggie--yang/)](https://www.linkedin.com/in/maggie--yang/)
 [![Devpost | maggiey22](https://badges.devpost-shields.com/get-badge?name=maggiey22&id=commuze&type=big-logo&style=plastic)](https://devpost.com/maggiey22)
-![StackOverflow Badge](https://img.shields.io/badge/-Penguin%20Knees-orange?style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13488316/penguin-knees)
+[![StackOverflow Badge](https://img.shields.io/badge/-Penguin%20Knees-orange?style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13488316/penguin-knees)](https://stackoverflow.com/users/13488316/penguin-knees)
 ![School Badge](https://img.shields.io/badge/School-UBC-yellow?style=flat)
 ![Year Badge](https://img.shields.io/badge/Year-3-green?style=flat)
 
