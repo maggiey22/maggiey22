@@ -6,8 +6,8 @@
 ![School Badge](https://img.shields.io/badge/School-UBC-yellow?style=flat)
 ![Year Badge](https://img.shields.io/badge/Year-5-green?style=flat)
 
-- 😄 **Pronouns:** she/her
 <!--
+- 😄 **Pronouns:** she/her
 - 🌱 **Currently learning:** full-stack web development
 - 🔭 **Currently working on:** school projects!
 - 🚀 **Skills:** Java, TypeScript, Python, SQL, HTML/CSS, React, C, C++
